@@ -1,1 +1,1 @@
-# Genetic_algorithm_python
+# genetic-algortihm-python
